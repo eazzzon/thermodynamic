@@ -1,2 +1,2 @@
 # thermodynamic
-Not empirical, we understand petrology from fundemental thermodynamics!
+Host fundemental thermodynamic concepts, models, covering ideal mixing and non-ideal mixing in solid solutions
